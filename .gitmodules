@@ -1,0 +1,3 @@
+[submodule "submodules/grpc-bookshelf-proto"]
+	path = submodules/grpc-bookshelf-proto
+	url = https://github.com/gdegiorgio/grpc-bookshelf-proto
